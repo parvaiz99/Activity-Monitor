@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Monitor</string>
+    <string name="activity_monitor_service_description">hello there</string>
+</resources>
